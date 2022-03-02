@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mwarsame20
-- 👀 I’m interested in technology, sports, video games, history and nature
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects that will help me gain experience
-- 📫 How to reach me? -> mo.warsame91@gmail.com
+- 👋 Hi, I’m Mohammed Warsame from United Kingdom.
+- 👀 I’m interested in technology, sports, video games, history and nature.
+- 🌱 I’m currently learning more about web development and cloud computing technologies.
+- 💞️ I’m looking to collaborate on projects that will help me gain experience in web/software development and build my social profile on GitHub.
+- 📫 How to reach me? -> mo.warsame91@gmail.com.
 
 <!---
 mwarsame20/mwarsame20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
